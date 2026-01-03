@@ -1,3 +1,5 @@
+Forked from https://github.com/jpopesculian/reqwest-eventsource
+
 # reqwest-eventsource
 
 Provides a simple wrapper for [`reqwest`] to provide an Event Source implementation.
